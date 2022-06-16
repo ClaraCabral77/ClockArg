@@ -22,7 +22,7 @@ minsHand.style.transform = `rotate(${minutosGrados}deg)`;
 //Setear Hora
 
 const horas= ahora.getHours();
-const horaGrados= ((horas / 12)* 360) +90;
+const horaGrados= ((horas / 12)* 360) +90 ;
 hourHand.style.transform = `rotate(${horaGrados}deg)`;
 
 

@@ -54,8 +54,8 @@ html {
     height: 6px;
     background: rgb(255, 255, 255);
     position: absolute;
-    top: 38%;
-    left: -2.6%;
+    top: 36%;
+   left:5%;
     transform-origin: 150%;
     transform: rotate(90deg);
     transition: all 0.05s;
