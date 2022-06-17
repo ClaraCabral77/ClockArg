@@ -50,13 +50,12 @@ html {
   }
 
   .hour-hand{
-    width: 30%;
+    width: 50%;
     height: 6px;
     background: rgb(255, 255, 255);
     position: absolute;
-    top: 36%;
-   left:5%;
-    transform-origin: 150%;
+    top: 50%;
+    transform-origin: 100%;
     transform: rotate(90deg);
     transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
